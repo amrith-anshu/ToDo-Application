@@ -1,0 +1,17 @@
+table {
+  border: 2px solid;
+  border-color: darkmagenta;
+  font-family: 'Times New Roman';
+  font-size: 22px;
+  border-collapse: collapse;
+  width: 95%;
+  margin: 8px;
+}
+
+th, td {
+  border: 2px solid;
+  border-color: cornflowerblue;
+  text-align: center;
+  padding: 6px;
+  margin: 4px;
+}

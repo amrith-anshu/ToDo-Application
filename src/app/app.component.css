@@ -1,0 +1,17 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: firebrick;
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 34px;
+}
+
+h4 {
+  color: darkblue;
+  font-family: 'Times New Roman';
+  font-size: 30px;
+  margin: 6px;
+}
